@@ -30,7 +30,8 @@
 
   ## [Usage](#table-of-contents)
 
-  np
+  [Capture](https://user-images.githubusercontent.com/93087137/172967911-764896e4-e206-44c9-8921-dd2abd1ed0de.PNG)
+
   
   For more information on how to add screenshots for examples, visit the following website:
   
