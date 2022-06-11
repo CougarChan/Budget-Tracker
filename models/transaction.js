@@ -1,7 +1,7 @@
+//const that need be depended on
+
 const mongoose = require("mongoose");
-
 const Schema = mongoose.Schema;
-
 const transactionSchema = new Schema(
   {
     name: {
